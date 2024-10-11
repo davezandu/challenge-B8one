@@ -37,6 +37,10 @@ npm start
 
 Após esse comando, a aplicação estará disponível localmente em `http://localhost:3000`.
 
+## 🧪 Teste
+
+Link para testes: https://dave-b8one-test.vercel.app/
+
 ## 🤝 Contribuições
 
 Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias.
