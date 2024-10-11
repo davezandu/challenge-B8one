@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  font-family: 'Inter', sans-serif;
+}
+
+.App {
+  text-align: center;
+  background-color: #e9ebee;
+  min-height: 100vh;
+}
+
+.App-section {
+  margin: 0; padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 480px){
+  .App-section{ flex-direction: column; }
+}

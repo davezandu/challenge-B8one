@@ -1,0 +1,46 @@
+.addCart_box button{
+    width: 100%;
+    margin-top: 25px;
+    padding: 10px 25px;
+    border-radius: 8px;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+    letter-spacing: 0.6px;
+    cursor: pointer;
+}
+
+.addCart_box .addCart_default{
+    background: #40b25c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addCart_box .addCart_default::before{
+    content: '';
+    height: 25px;
+}
+
+.addCart_box .addCart_default:hover{
+    background-color: #1C6C3E;
+    transition: all .3s;
+}
+
+.addCart_box .addCart_added{
+    background-color: #A3F9B9;
+    color: #222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addCart_box .addCart_added::before{
+    content: '';
+    width: 25px; height: 25px;
+    margin-right: 7px;
+    background: url('../../../public/image/check.png') no-repeat;
+    background-size: contain;
+}

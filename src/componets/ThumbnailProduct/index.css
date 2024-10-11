@@ -1,0 +1,9 @@
+.productItem__image{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.productItem__image img{
+    width: 100%;
+}

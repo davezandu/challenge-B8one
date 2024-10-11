@@ -1,0 +1,27 @@
+.productItem__price .oldPrice{
+    color: #b5b5b6;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration-line: line-through;
+    text-align: left;
+  }
+  
+.productItem__price .bestPrice{
+    color: #da4b4f;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: left;
+    padding: 5px 0;
+}
+  
+.productItem__price  .installments{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #848587;
+    text-align: left;
+}
+
+.productItem__price  .installments b{
+    font-weight: 700;
+}
