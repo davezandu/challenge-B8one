@@ -16,7 +16,7 @@ Siga os passos abaixo para clonar e rodar o projeto localmente.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/davezandu/Dave-B8oneTest.git
+git clone https://github.com/davezandu/challenge-B8one.git
 ```
 
 ### 2. Instale as dependências
