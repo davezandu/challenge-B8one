@@ -39,7 +39,7 @@ Após esse comando, a aplicação estará disponível localmente em `http://loca
 
 ## 🧪 Teste
 
-Link para testes: https://dave-b8one-test.vercel.app/
+Link para testes: https://dave-challengeb8one.vercel.app/
 
 ## 🤝 Contribuições
 
